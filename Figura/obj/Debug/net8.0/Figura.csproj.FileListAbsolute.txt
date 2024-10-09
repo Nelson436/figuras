@@ -1,0 +1,14 @@
+C:\Users\nelso\source\repos\Figura\bin\Debug\net8.0\Figura.exe
+C:\Users\nelso\source\repos\Figura\bin\Debug\net8.0\Figura.deps.json
+C:\Users\nelso\source\repos\Figura\bin\Debug\net8.0\Figura.runtimeconfig.json
+C:\Users\nelso\source\repos\Figura\bin\Debug\net8.0\Figura.dll
+C:\Users\nelso\source\repos\Figura\bin\Debug\net8.0\Figura.pdb
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\Figura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\Figura.AssemblyInfoInputs.cache
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\Figura.AssemblyInfo.cs
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\Figura.csproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\Figura.dll
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\refint\Figura.dll
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\Figura.pdb
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\Figura.genruntimeconfig.cache
+C:\Users\nelso\source\repos\Figura\obj\Debug\net8.0\ref\Figura.dll

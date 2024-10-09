@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\interfaces\\iusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|solutionrelative:interfaces\\iusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\interfaces\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|solutionrelative:interfaces\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\interfaces\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|solutionrelative:interfaces\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\persona2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|solutionrelative:persona2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|c:\\users\\nelso\\source\\repos\\fundamentos 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4060E92-4048-496D-9278-868C9ED7216B}|Fundamentos 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Interfaces\\Admin.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Admin.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Interfaces\\Admin.cs",
+              "RelativeToolTip": "Interfaces\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:08:24.988Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Interfaces\\IUsuarios.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarios.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Interfaces\\IUsuarios.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:08:47.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Interfaces\\Cliente.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Cliente.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Interfaces\\Cliente.cs",
+              "RelativeToolTip": "Interfaces\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:24:51.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona2.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Persona2.cs",
+              "RelativeDocumentMoniker": "Persona2.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Persona2.cs",
+              "RelativeToolTip": "Persona2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:22:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "persona.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\persona.cs",
+              "RelativeDocumentMoniker": "persona.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\persona.cs",
+              "RelativeToolTip": "persona.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:18:29.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\Fundamentos 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:11:09.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

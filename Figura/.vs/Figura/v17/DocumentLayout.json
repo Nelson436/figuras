@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\source\\repos\\Figura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A514FCE-270E-471A-8C4F-C7A84FDAEB7B}|Figura.csproj|c:\\users\\nelso\\source\\repos\\figura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A514FCE-270E-471A-8C4F-C7A84FDAEB7B}|Figura.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\Figura\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\Figura\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAowJcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:45:04.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
